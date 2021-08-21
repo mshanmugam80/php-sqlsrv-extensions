@@ -11,7 +11,7 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/mshanmugam80/php-sqlsrv-extensions/blob/main/ext-sqlsrv-5.8.1_php-7.4.tar.gz?raw=true"
+					"url": "https://raw.githubusercontent.com/mshanmugam80/php-sqlsrv-extensions/main/ext-sqlsrv-5.8.1_php-7.4.tar.gz"
 				},
 				"time": "2021-08-21"
 			},
@@ -25,7 +25,7 @@
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/mshanmugam80/php-sqlsrv-extensions/blob/main/ext-pdo_sqlsrv-5.8_php-7.4.tar.gz?raw=true"
+					"url": "https://raw.githubusercontent.com/mshanmugam80/php-sqlsrv-extensions/main/ext-pdo_sqlsrv-5.8_php-7.4.tar.gz"
 				},
 				"time": "2021-08-21"
 			}
