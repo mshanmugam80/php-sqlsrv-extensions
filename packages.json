@@ -7,7 +7,7 @@
 				"type": "heroku-sys-php-extension",
 				"require": {
 					"php": "7.4.*",
-					"heroku-sys/php": ">=7.4.*",
+					"heroku-sys/php": "7.4.*",
 					"heroku/installer-plugin": "^1.2.0"
 				},
 				"dist": {
@@ -22,7 +22,7 @@
 				"type": "heroku-sys-php-extension",
 				"require": {
 					"php": "7.4.*",
-					"heroku-sys/php": ">=7.4.*",
+					"heroku-sys/php": "7.4.*",
 					"heroku/installer-plugin": "^1.2.0"
 				},
 				"dist": {
