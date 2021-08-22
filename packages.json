@@ -6,30 +6,30 @@
 				"version": "5.9.0",
 				"type": "heroku-sys-php-extension",
 				"require": {
-					"php": "7.4.*",
-					"heroku-sys/php": "7.4.*",
+					"php": "^7.4",
+					"heroku-sys/php": "^7.4",
 					"heroku/installer-plugin": "^1.2.0"
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/mshanmugam80/php-sqlsrv-extensions/raw/main/ext-sqlsrv_74_nts.tar.gz"
+					"url": "https://github.com/mshanmugam80/php-sqlsrv-extensions/raw/main/ext-sqlsrv-5.9.0_php-7.4.tar.gz"
 				},
-				"time": "2021-08-21"
+				"time": "2021-08-22"
 			},
 			{
 				"name": "heroku-sys/ext-pdo_sqlsrv",
 				"version": "5.9.0",
 				"type": "heroku-sys-php-extension",
 				"require": {
-					"php": "7.4.*",
-					"heroku-sys/php": "7.4.*",
+					"php": "^7.4",
+					"heroku-sys/php": "^7.4",
 					"heroku/installer-plugin": "^1.2.0"
 				},
 				"dist": {
 					"type": "heroku-sys-tar",
-					"url": "https://github.com/mshanmugam80/php-sqlsrv-extensions/raw/main/ext-pdo_sqlsrv_74_nts.tar.gz"
+					"url": "https://github.com/mshanmugam80/php-sqlsrv-extensions/raw/main/ext-pdo_sqlsrv-5.9.0_php-7.4.tar.gz"
 				},
-				"time": "2021-08-21"
+				"time": "2021-08-22"
 			}
 		]
 	]
